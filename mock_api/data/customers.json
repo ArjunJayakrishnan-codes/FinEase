@@ -1,0 +1,82 @@
+[
+  {
+    "phone": "9999988888",
+    "name": "Ravi Kumar",
+    "address": "Delhi, India",
+    "credit_score": 720,
+    "monthly_salary": 55000,
+    "pre_approved_limit": 3500000
+  },
+  {
+    "phone": "8888877777",
+    "name": "Priya Sharma",
+    "address": "Mumbai, India",
+    "credit_score": 650,
+    "monthly_salary": 40000,
+    "pre_approved_limit": 2000000
+  },
+  {
+    "phone": "7777766666",
+    "name": "Amit Verma",
+    "address": "Bengaluru, India",
+    "credit_score": 780,
+    "monthly_salary": 95000,
+    "pre_approved_limit": 5000000
+  },
+  {
+    "phone": "6666655555",
+    "name": "Neha Patel",
+    "address": "Ahmedabad, India",
+    "credit_score": 610,
+    "monthly_salary": 32000,
+    "pre_approved_limit": 1500000
+  },
+  {
+    "phone": "5555544444",
+    "name": "Akash Singh",
+    "address": "Lucknow, India",
+    "credit_score": 690,
+    "monthly_salary": 60000,
+    "pre_approved_limit": 3000000
+  },
+  {
+    "phone": "4444433333",
+    "name": "Simran Kaur",
+    "address": "Chandigarh, India",
+    "credit_score": 745,
+    "monthly_salary": 72000,
+    "pre_approved_limit": 4000000
+  },
+  {
+    "phone": "3333322222",
+    "name": "Mohammed Ali",
+    "address": "Hyderabad, India",
+    "credit_score": 680,
+    "monthly_salary": 50000,
+    "pre_approved_limit": 2500000
+  },
+  {
+    "phone": "2222211111",
+    "name": "Ananya Gupta",
+    "address": "Pune, India",
+    "credit_score": 800,
+    "monthly_salary": 120000,
+    "pre_approved_limit": 7000000
+  },
+  {
+    "phone": "1111100000",
+    "name": "Rahul Mehta",
+    "address": "Jaipur, India",
+    "credit_score": 590,
+    "monthly_salary": 28000,
+    "pre_approved_limit": 1200000
+  },
+  {
+    "phone": "9999900000",
+    "name": "Kavya Reddy",
+    "address": "Chennai, India",
+    "credit_score": 730,
+    "monthly_salary": 80000,
+    "pre_approved_limit": 4500000
+  }
+]

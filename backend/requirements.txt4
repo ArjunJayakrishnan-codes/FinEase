@@ -1,0 +1,12 @@
+# Core backend
+Flask==3.0.3
+Flask-Cors==4.0.0
+
+# Database (optional if you use MySQL)
+mysql-connector-python==9.0.0
+
+# PDF generation
+reportlab==4.2.2
+
+# AI/Agents logic (if used)
+openai==1.51
